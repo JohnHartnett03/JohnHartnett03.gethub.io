@@ -1,8 +1,9 @@
 h2 {
-    color: blue
+    color: blue;
+    border: 2px solid black;
 }
 
-body {
+p {
     font-family: "Times New Roman", Times, serif;
-     
+     border: 2px dashed red;
 }
