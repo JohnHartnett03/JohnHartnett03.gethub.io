@@ -1,6 +1,9 @@
 h2 {
     color: blue;
-    border: 2px solid black;
+   padding: 5px;
+   padding-top: 0px;
+   margin: 0px;
+   margin-bottom: 0px;
 }
 
 div {
@@ -14,7 +17,7 @@ div {
      border-left-style: dashed;
      border-bottom-style: dashed;
      box-shadow: 0px 5px 5px 0px;
-
+    margin-bottom: 10px;
      
 }
 
